@@ -22,7 +22,7 @@ This directory contains a default [LazyVim](https://www.lazyvim.org/) configurat
 1. Make sure you have Neovim 0.9.0 or later installed
 2. Symlink or copy this configuration to your Neovim config directory:
    ```bash
-   ln -s ~/.config/nvim ~/path/to/dotfiles/.config/nvim
+   ln -s ~/path/to/dotfiles/.config/nvim ~/.config/nvim
    ```
    Or on a fresh install:
    ```bash
